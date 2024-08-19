@@ -1,4 +1,3 @@
 # conversor_moeda
 
-A new Flutter application.
-
+Converte valores de uma moeda para outra.
